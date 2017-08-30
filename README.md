@@ -2,12 +2,12 @@
 We are doing this project as part of our Data to Decisions class under Dr. Andrea Wiggins. As a part of this we will be doing data analysis and cleaning
 
 ### List of Files
-*LICENSE
-*Readme.md
+* LICENSE
+* Readme.md
 
 ### Pre-requisites
-*R studio
-*Microsoft Excel
+* R studio
+* Microsoft Excel
 
 ### Authors
 Pooja Yalala and team.
