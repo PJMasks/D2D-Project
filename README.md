@@ -20,6 +20,7 @@ Pooja Yalala and team.
 
 ### License Information
 Please read through it before using this project.
+
 MIT License
 
 Copyright (c) 2017 Pooja Yalala
