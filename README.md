@@ -8,6 +8,9 @@ We are doing this project as part of our Data to Decisions class under Dr. Andre
 ### Pre-requisites
 * R studio
 * Microsoft Excel
+* Git
+* MySQL
+
 
 ### Authors
 Pooja Yalala and team.
