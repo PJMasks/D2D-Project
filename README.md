@@ -1,5 +1,5 @@
 ### About the Project
-We are doing this project as part of our Data to Decisions class under Dr. Andrea Wiggins. As a part of this we will be doing data analysis and cleaning
+We are doing this project as part of our Data to Decisions class under Dr. Andrea Wiggins. As a part of this we will be doing data manipulation and analysis.
 
 ### List of Files
 * LICENSE
