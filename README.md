@@ -14,5 +14,4 @@ Pooja Yalala and team.
 
 ### LICENSE
 This project is protected under the MIT license. Please read through it before using this project.
-The link to it can be found below:
-https://github.com/PoojaYalala/D2D-Project/blob/master/LICENSE
+The link to it can be found [here](https://github.com/PoojaYalala/D2D-Project/blob/master/LICENSE).
