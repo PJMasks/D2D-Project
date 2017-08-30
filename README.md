@@ -1,17 +1,17 @@
 ### About the Project
 We are doing this project as part of our **Data to Decisions** class under **Dr. Andrea Wiggins**. As a part of this project we will be doing data manipulation and analysis.
 
-### List of Files/folders in the Repository
+### List of Files/Folders in the Repository
 * License
 * Readme.md
 * Information-Seeking
 
 ### Getting started
-To be able to do this project basic knowledge of R and MySQL is required.
+To be able to do this project, a basic knowledge of R and MySQL is required.
 
 ### Pre-requisites
 * R studio
-* Git
+* GitHub Desktop
 * MySQL
 
 
