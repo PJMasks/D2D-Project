@@ -5,6 +5,16 @@ We are doing this project as part of our **Data to Decisions** class under **Dr.
 * License
 * Readme.md
 * Information-Seeking
+  * Information-Seeking.md
+  * Air Quality Dataset
+   * AirQuality.md
+   * AirQuality.csv
+  * Big Cities health Inventory Dataset
+   * BCHI.md
+   * Big-Cities-Health-Inventory.md
+  * Electricity Prices in U.S.A(by state)
+    * ElectricityPrices.md
+    * ElectricityPriceByState.xl
 
 ### Getting started
 To be able to do this project, a basic knowledge of R and MySQL is required.
@@ -13,6 +23,7 @@ To be able to do this project, a basic knowledge of R and MySQL is required.
 * R studio
 * GitHub Desktop
 * MySQL
+* MS-Excel
 
 
 ### Authors
