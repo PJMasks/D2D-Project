@@ -6,12 +6,12 @@ We are doing this project as part of our **Data to Decisions** class under **Dr.
 * Readme.md
 * Information-Seeking
   * Information-Seeking.md
-  * Air Quality Dataset
-   * AirQuality.md
-   * AirQuality.csv
+  * Air Quality  Dataset
+    * AirQuality.md
+    * AirQualityUCI.csv
   * Big Cities health Inventory Dataset
-   * BCHI.md
-   * Big-Cities-Health-Inventory.md
+    * BCHI.md
+    * Big-Cities-Health-Inventory.csv
   * Electricity Prices in U.S.A(by state)
     * ElectricityPrices.md
     * ElectricityPriceByState.xl
