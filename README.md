@@ -57,3 +57,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 </details>
+
+Additionally please go through the documentation for each dataset to know the terms of use, before using them.
