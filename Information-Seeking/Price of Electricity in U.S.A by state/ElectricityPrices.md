@@ -19,7 +19,6 @@ Link - https://www.eia.gov/about/copyrights_reuse.php
 This data is recorded by US Energy Information Administration board to change the prices across the states depending on the usage. This data set can be used for regression to predict the prices in the coming years. It also can be used in the analysis of the variation in prices across different regions and different sectors and it can help the government come with efficient policies to regulate the prices in a fair manner.
 
 #### Research questions
-
 1) This data can be used to estimate the usage scenarios for different sectors across the states and could help in adjusting the prices.
 
 2)This could also be used to predict the prices for the coming years using clustering techniques.
@@ -30,4 +29,4 @@ This data is recorded by US Energy Information Administration board to change th
 
 U.S. Energy Information Administration (Oct 2008)
 
-The Math Forum, retrived from http://mathforum.org/workshops/sum96/data.collections/datalibrary/data.set6.html
+The Math Forum, retrieved from http://mathforum.org/workshops/sum96/data.collections/datalibrary/data.set6.html
