@@ -1,6 +1,6 @@
 #### Author: Pooja Reddy Yalala
 
-#### Price of Electricity in U.S.A(By State)
+#### Price of Electricity in the U.S.A(By State)
 
 #### What makes it interesting?!
 This data set shows the price of electricity across different states in US. These data set seems interesting as it can be used for regression to predict the upcoming prices. It helps us to understand the variation in the prices depending on the geography, climatic conditions, cost of living etc. In modern electricity market the electricity prices are very volatile and can be affected by several factors. It is very important to understand those factors as much as possible in order to minimize the financial risk and negative impact from buying the electricity on the market. **Personal Interest:** Though this is a relatively small dataset, I liked the usability through regression analysis. It is a great dataset to work on, for beginners.
@@ -15,7 +15,7 @@ This data set is a public domain data and can be used for statistical purposes u
 Link - https://www.eia.gov/about/copyrights_reuse.php
 
 
-#### Potential Data Users and decision makers
+#### Potential data users and decision makers
 This data is recorded by US Energy Information Administration board to change the prices across the states depending on the usage. This data set can be used for regression to predict the prices in the coming years. It also can be used in the analysis of the variation in prices across different regions and different sectors and it can help the government come with efficient policies to regulate the prices in a fair manner.
 
 #### Research questions
