@@ -44,7 +44,7 @@ https://archive.ics.uci.edu/ml/citation_policy.html
 
 ##### Source cited in UCI website: Saverio De Vito (saverio.devito '@' enea.it), ENEA - National Agency for New Technologies, Energy and Sustainable Economic Development.
 
-There is no terms of use mentioned in this site either and the site is not operational anymore.
+There is no terms of use mentioned in the original source site either and the site is not operational anymore.
 It does mention this - Pursuant to art. 37 of Law no. 99 of July 23rd, 2009, the Agency’s activities are targeted to research, innovation technology and advanced services in the fields of energy - especially nuclear.
 
 
