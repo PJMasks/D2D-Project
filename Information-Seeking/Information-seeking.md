@@ -1,7 +1,7 @@
 #### It has the following datasets:
 
-** Air Quality Datasat from UCI, Machine learning repository
+* Air Quality Datasat from UCI, Machine learning repository
 
-** Big cities health inventory from Data.world
+* Big cities health inventory from Data.world
 
-** Electricity Prices in USA(By State)
+* Electricity Prices in USA(By State)
