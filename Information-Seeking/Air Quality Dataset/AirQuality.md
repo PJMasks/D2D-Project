@@ -5,7 +5,7 @@
 
 #### Why is it Interesting?!
 Local air quality affects how you live and breathe. Like the weather, it can change from day to day or even hour to hour. 
-Air pollution is one of the most serious problems in the world. It refers to the contamination of the atmosphere by harmful chemicals or biological materials. To solve the problem of air pollution, it's necessary to understande levels of harmful gases, and the issues that it causes and look for ways to counter it. We can do predictive modelling and develop an air quality model based on the given data. *The reason this dataset caught my eye is, as I am a Pro-Environmentalist, I was apalled at the increasing levels of the harmful gases in the air that we breathe. Also, since Im new to Data Analysis, I found a few starter scripts in R and Python, which will make the regression analysis and predictive modelling easier.*
+Air pollution is one of the most serious problems in the world. It refers to the contamination of the atmosphere by harmful chemicals or biological materials. To solve the problem of air pollution, it's necessary to understand levels of harmful gases, and the issues that it causes and look for ways to counter it. We can do predictive modelling and develop an air quality model based on the given data. *The reason this dataset caught my eye is, as I am a Pro-Environmentalist, I was apalled at the increasing levels of the harmful gases in the air that we breathe. Also, since Im new to Data Analysis, I found a few starter scripts in R and Python, which will make the regression analysis and predictive modelling easier.*
 
 
 #### Dataset Information
