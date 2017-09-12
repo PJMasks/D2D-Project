@@ -9,8 +9,11 @@ The purpose of this dataset is to focus specifically on the health of people liv
 
 #### Dataset Information
 It has 13513 rows and 11 columns.
+
 Size of the data - 6.20MB
+
 It is available in .csv format on the source website
+
 This dataset illustrates health status of 26 of the nation’s largest and most urban cities as captured by 34 health (and six demographics-related) indicators. These indicators represent some of the leading causes of morbidity and mortality in the United States and leading priorities of national, state, and local health agencies. Public health data were captured in nine overarching categories: HIV/AIDS, cancer, nutrition/physical activity/obesity, food safety, infectious disease, maternal and child health, tobacco, injury/violence, and behavioral health/substance abuse.
 
 For more information on Data Calculations please visit:
