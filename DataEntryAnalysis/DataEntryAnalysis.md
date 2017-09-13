@@ -34,7 +34,7 @@ The 3 files in this directory were all intended to be part of the same study –
 10) There is a chart in Zoop-temp-main which is highly ambigious, as the labels for the X and Y axis are not given and the values in the X axis are overlapping making it difficult to be deciphered.
 11) There are multiple files for the same data.
 
-##### Task 2: Potential template for later years of data collection that would address these problems 
+##### Task 2(a): Potential template for later years of data collection that would address these problems 
 
 | Date | Time(EST) | Species | Colony Diameter(meters) | Density(kg/m^3) | Temperature(degree Celcius) | Depth(meters) | Chippos/Litre | Cunis/litre | Cuni Colony size(millimeter) | Cuni Colony size(millimeter) | Station | Chlrophyll A | Comments |
 |------|-----------|---------|------------------------|-----------------|-----------------------------|---------------|---------------|------------|------------------------------|------------------------------|---------|--------------------|----------|
@@ -43,6 +43,8 @@ The 3 files in this directory were all intended to be part of the same study –
 |      |           |         |                        |                 |                             |               |               |            |                              |                              |         |                    |          |
 |      |           |         |                        |                 |                             |               |               |            |                              |                              |         |                    |          |
 |      |           |         |                        |                 |                             |               |               |            |                              |                              |         |                    |          | 
+
+##### Task 2(b): Justifying the new proposed template of the table
 
 1) There are no special characters in the column headers.
 2) Units are mentioned for the columns whereever necessary.
