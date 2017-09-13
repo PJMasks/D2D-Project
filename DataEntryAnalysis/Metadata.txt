@@ -1,0 +1,11 @@
+Cuni - Conochilus unicornis
+Chippos - Conochilus hippocrepis
+ColonySize - Average diameter (mm) of 5 randomly chose conochilus colonies in the sample
+Temp -Temperature (YSI probe taken once at each depth)
+
+Station B is in a Shallower southern arm od the lake, see yellowbook for map and details
+
+Max Depth 72m
+Max Secchi 14m
+
+Note that these data are simulated, not real! S.E. Hampton 2012.
