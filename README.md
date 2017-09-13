@@ -15,6 +15,12 @@ We are doing this project as part of our **Data to Decisions** class under **Dr.
   * Electricity Prices in U.S.A(by state)
     * ElectricityPrices.md
     * ElectricityPriceByState.xl
+  * DataEntryAnalysis
+    * DataEntryAnalysis.md
+    * Pool2010.xlsx
+    * Zoop-temp.xlsx
+    * Zoop-temp-main.xlsx
+    * Metadeta.txt
 
 ### Getting started
 To be able to do this project, a basic knowledge of R and MySQL is required.
