@@ -2,10 +2,12 @@
 
 ### Project - Data Entry Analysis
 
-### List of data files in this directory
+### List of files in this directory
 ##### 1. POOL2010.xlsx
 ##### 2. ZOOP-TEMP.xlsx
 ##### 3. ZOOP-TEMP-MAIN.xlsx
+##### 4. DataEntryAnalysis.md
+##### 5. Metadata.txt
 
 ### Background
 Plankton are microscopic organisms that form the base of many aquatic food webs – fueling the growth of fish and other larger organisms. It’s common to sample them using a net or another container that can be controlled to collect water just from certain depths; so you can see how plankton collected at the surface (0 meters) might be different from plankton at another depth (e.g. 10 meters below the surface).
@@ -32,9 +34,9 @@ The 3 files in this directory were all intended to be part of the same study –
 10) There is a chart in Zoop-temp-main which is highly ambigious, as the labels for the X and Y axis are not given and the values in the X axis are overlapping making it difficult to be deciphered.
 11) There are multiple files for the same data.
 
-##### Task 2: Potential template for later years of data collection that would address these problems 
+##### Task 2(a): Potential template for later years of data collection that would address these problems 
 
-| Date | Time(EST) | Species | Colony Diameter(meters) | Density(kg/m^3) | Temperature(degree Celcius) | Depth(meters) | Chippos/Litre | Cunis/litre | Cuni Colony size(millimeter) | Cuni Colony size(millimeter) | Station | Chlrophyll A | Comments |
+| Date | Time(EST) | Species | Colony Diameter(meters) | Density(kg/m^3) | Temperature(degree Celcius) | Depth(meters) | Chippos/Litre | Cunis/litre | Chippo Colony size(millimeters) | Cuni Colony size(millimeters) | Station | Chlrophyll A | Comments |
 |------|-----------|---------|------------------------|-----------------|-----------------------------|---------------|---------------|------------|------------------------------|------------------------------|---------|--------------------|----------|
 |      |           |         |                        |                 |                             |               |               |            |                              |                              |         |                    |          |
 |      |           |         |                        |                 |                             |               |               |            |                              |                              |         |                    |          |
@@ -42,5 +44,12 @@ The 3 files in this directory were all intended to be part of the same study –
 |      |           |         |                        |                 |                             |               |               |            |                              |                              |         |                    |          |
 |      |           |         |                        |                 |                             |               |               |            |                              |                              |         |                    |          | 
 
+##### Task 2(b): Justifying the table
 
-
+1) There are no special characters in the column headers.
+2) Units are mentioned for the columns whereever necessary.
+3) Date along with time is included to help the scientists observe the changes in their distribution.
+4) Names of the columns are clear and easy to understand.
+5) All the data is collected in a single data file which makes it easy for the investigators to analyze and visualize the data.
+6) All the meta data is included in a separate text file.
+7) Additional column called Comments can be used to record additional findings/observations/comments.
